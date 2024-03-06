@@ -1,4 +1,7 @@
 ### Hi there 👋
+### I'm Star
+### Ts Full Stack
+### Wanna work for open source~
 
 <!--
 **caoxing9/caoxing9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

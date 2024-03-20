@@ -2,7 +2,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@coxng1-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/coxng1)](https://twitter.com/coxng1)
 [![Gmail Badge](https://img.shields.io/badge/caoxing9-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:caoxing9@gmail.com)](mailto:caoxing9@gmail.com)
 
-Welcome to my profile! I'm a Mike. A Full Stack Developer useing Javascript~
+Welcome to my profile! I'm a Mike. A full stack developer using javascript~
 
 ### 🔧 Things I code with
 ![Node.js](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=6aa6f8)

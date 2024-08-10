@@ -1,5 +1,5 @@
 # Hi I'm Mike 👋
-[![Twitter Badge](https://img.shields.io/badge/-@coxng1-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/caoxing_00)](https://twitter.com/caoxing_00)
+[![Twitter Badge](https://img.shields.io/badge/-@caoxing_00-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/caoxing_00)](https://twitter.com/caoxing_00)
 [![Gmail Badge](https://img.shields.io/badge/caoxing9-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:caoxing9@gmail.com)](mailto:caoxing9@gmail.com)
 
 Welcome to my profile! I'm a Mike. A full stack developer using javascript~

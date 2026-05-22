@@ -6,6 +6,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+the+next-gen+no-code+database;21k%2B+%E2%AD%90+on+GitHub+%E2%80%94+and+counting;TypeScript+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL;Build+in+the+open.+Ship+with+taste." alt="Typing SVG" />
 </a>
 
+<br />
+
+<a href="https://x.com/caoxing_00">
+  <img src="https://img.shields.io/badge/Follow_%40caoxing__00_on_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow @caoxing_00 on X" />
+</a>
+<a href="https://github.com/caoxing9?tab=followers">
+  <img src="https://img.shields.io/github/followers/caoxing9?style=for-the-badge&logo=github&logoColor=white&label=Follow&labelColor=181717&color=58A6FF" alt="GitHub followers" />
+</a>
+
 </div>
 
 ---
@@ -62,7 +71,7 @@ const aries = {
 ### 📫 Let's connect
 
 <p>
-  <a href="https://twitter.com/caoxing_00"><img src="https://img.shields.io/badge/-@caoxing__00-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://x.com/caoxing_00"><img src="https://img.shields.io/badge/-@caoxing__00-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="mailto:caoxing9@gmail.com"><img src="https://img.shields.io/badge/-caoxing9@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://teable.io"><img src="https://img.shields.io/badge/-teable.io-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://github.com/teableio"><img src="https://img.shields.io/badge/-@teableio-181717?style=for-the-badge&logo=github&logoColor=white" /></a>

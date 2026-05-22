@@ -76,6 +76,14 @@ const aries = {
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/caoxing9/caoxing9/output/github-contribution-grid-snake.svg" />
 </picture>
 
+### ☕ Support my work
+
+If Teable or my open-source work has saved you time, a coffee goes a long way 🙏
+
+<a href="https://ko-fi.com/ariesx56854">
+  <img src="https://img.shields.io/badge/Buy_me_a_coffee_on_Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support on Ko-fi" height="42" />
+</a>
+
 ### 📫 Let's connect
 
 <p>

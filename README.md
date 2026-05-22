@@ -1,50 +1,73 @@
-# Hi I'm Aries 👋
-[![Twitter Badge](https://img.shields.io/badge/-@caoxing_00-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/caoxing_00)](https://twitter.com/caoxing_00)
-[![Gmail Badge](https://img.shields.io/badge/caoxing9-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:caoxing9@gmail.com)](mailto:caoxing9@gmail.com)
+<div align="center">
 
-Welcome to my profile! I'm a Aries. A full stack developer using javascript~
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A2332,100:58A6FF&height=200&section=header&text=Aries%20X&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Founder%20of%20Teable%20%E2%80%A2%20Full-Stack%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
 
-### 🔧 Things I code with
-![Node.js](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=6aa6f8)
-![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=6aa6f8)
-![Shell_Script](https://img.shields.io/badge/Code-Shell_Script-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+<a href="https://github.com/caoxing9">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+the+next-gen+no-code+database;21k%2B+%E2%AD%90+on+GitHub+%E2%80%94+and+counting;TypeScript+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL;Build+in+the+open.+Ship+with+taste." alt="Typing SVG" />
+</a>
 
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
-![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+</div>
 
-### Open source projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/teableio/teable"><b>Teable</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/teableio/teable?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/teableio/teable?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/teableio/teable?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/teableio/teable?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
+---
 
-<!--
-**caoxing9/caoxing9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About me
 
-Here are some ideas to get you started:
+```ts
+const aries = {
+  pronouns:    "he/him",
+  role:        "Founder & Full-Stack Engineer",
+  company:     "@teableio",
+  currentWork: "Teable — a Postgres-powered Airtable alternative",
+  stack:       ["TypeScript", "Node.js", "React", "PostgreSQL", "Docker"],
+  philosophy:  "Build in the open. Ship with taste.",
+};
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured project
+
+<a href="https://github.com/teableio/teable">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=teableio&repo=teable&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866" />
+</a>
+
+> **Teable** — The next-gen Airtable alternative. Super-fast, fully featured, PostgreSQL-backed no-code database.
+> Turning spreadsheets into real applications, for everyone.
+
+### 📊 GitHub stats
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=caoxing9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=caoxing9&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F8D866&currStreakLabel=58A6FF" />
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caoxing9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" height="170" />
+
+### 🛠️ Tech stack
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,nestjs,postgres,redis,prisma,docker,kubernetes,linux,git,vscode,figma&perline=14" />
+</a>
+
+### 🏆 Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=caoxing9&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+
+### 🐍 Contribution graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caoxing9/caoxing9/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caoxing9/caoxing9/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/caoxing9/caoxing9/output/github-contribution-grid-snake.svg" />
+</picture>
+
+### 📫 Let's connect
+
+<p>
+  <a href="https://twitter.com/caoxing_00"><img src="https://img.shields.io/badge/-@caoxing__00-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:caoxing9@gmail.com"><img src="https://img.shields.io/badge/-caoxing9@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://teable.io"><img src="https://img.shields.io/badge/-teable.io-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/teableio"><img src="https://img.shields.io/badge/-@teableio-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=caoxing9&label=Profile%20views&color=58A6FF&style=flat" />
+</div>

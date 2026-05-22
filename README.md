@@ -34,21 +34,29 @@ const aries = {
 
 ### 🚀 Featured project
 
-<a href="https://github.com/teableio/teable">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=teableio&repo=teable&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866" />
-</a>
+<h4>
+  <a href="https://github.com/teableio/teable">Teable</a>
+  — Postgres-powered no-code database, the Airtable alternative for builders
+</h4>
 
-> **Teable** — The next-gen Airtable alternative. Super-fast, fully featured, PostgreSQL-backed no-code database.
-> Turning spreadsheets into real applications, for everyone.
+<p>
+  <a href="https://github.com/teableio/teable"><img src="https://img.shields.io/github/stars/teableio/teable?style=for-the-badge&logo=github&label=Stars&color=F8D866&labelColor=0D1117" /></a>
+  <a href="https://github.com/teableio/teable/network/members"><img src="https://img.shields.io/github/forks/teableio/teable?style=for-the-badge&logo=github&label=Forks&color=58A6FF&labelColor=0D1117" /></a>
+  <a href="https://github.com/teableio/teable/issues"><img src="https://img.shields.io/github/issues/teableio/teable?style=for-the-badge&logo=github&label=Issues&color=F85149&labelColor=0D1117" /></a>
+  <a href="https://teable.io"><img src="https://img.shields.io/badge/Website-teable.io-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+> Super-fast, fully featured, PostgreSQL-backed no-code database. Turning spreadsheets into real applications, for everyone.
 
 ### 📊 GitHub stats
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=caoxing9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://streak-stats.demolab.com?user=caoxing9&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F8D866&currStreakLabel=58A6FF" />
+<p align="center">
+  <img src="./github-metrics.svg" alt="Metrics" width="100%" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caoxing9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" height="170" />
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=caoxing9&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F8D866&currStreakLabel=58A6FF" />
+</p>
 
 ### 🛠️ Tech stack
 

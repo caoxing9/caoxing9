@@ -48,16 +48,6 @@ const aries = {
 
 > Super-fast, fully featured, PostgreSQL-backed no-code database. Turning spreadsheets into real applications, for everyone.
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="./github-metrics.svg" alt="Metrics" width="100%" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=caoxing9&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F8D866&currStreakLabel=58A6FF" />
-</p>
-
 ### 🛠️ Tech stack
 
 <a href="https://skillicons.dev">
